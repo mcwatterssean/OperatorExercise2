@@ -1,0 +1,15 @@
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\OperatorsExercise2Console.exe
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\OperatorsExercise2Console.deps.json
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\OperatorsExercise2Console.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\OperatorsExercise2Console.dll
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\ref\OperatorsExercise2Console.dll
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\bin\Debug\net6.0\OperatorsExercise2Console.pdb
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.dll
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\ref\OperatorsExercise2Console.dll
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.pdb
+C:\Users\mcwat\Desktop\Repos\OperatorsExercise2\OperatorsExercise2Console\obj\Debug\net6.0\OperatorsExercise2Console.genruntimeconfig.cache
